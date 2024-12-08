@@ -7,6 +7,8 @@ public class RESTAPITest {
 		System.out.println("Rest API Tests1");
 		System.out.println("Rest API Tests2");
 		System.out.println("Rest API Tests2");
+		System.out.println("Rest API Tests3");
+		System.out.println("Rest API Tests5");
 
 	}
 
